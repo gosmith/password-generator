@@ -1,9 +1,8 @@
 <template>
   <div class="uk-container uk-container-expand">
     <div class="uk-flex uk-flex-center">
-    <password-composition />
-    <password-options />
-
+      <password-composition />
+      <password-options />
     </div>
 </div>
 </template>
